@@ -1,0 +1,3 @@
+estimated fps=8.6
+Sampling Rate=100
+RR=12.008005336891515
